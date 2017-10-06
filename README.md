@@ -6,4 +6,4 @@ The answers are the cases of crimes that matching with the mugshot.
 
 It started as a project in 3rd year software development course.
 
-**Happy mug and shot!**
+***Happy mugshoting!***
